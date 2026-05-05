@@ -13,13 +13,13 @@ Egy egyszerű, objektumorientált programozási (OOP) elvekre épülő játék a
 
 ## 📁 Projekt struktúra
 project/
-├── index.html # Fő oldal szerkezete
-├── style.css # Stíluslap
-├── index.js # ?
-├── Jatekos.js # ?
-├── Jatekter.js # ?
-├── Info.js # ?
-├── Services.js # ?
-└──
+- ├── index.html # Fő oldal szerkezete
+- ├── style.css # Stíluslap
+- ├── index.js # ?
+- ├── Jatekos.js # ?
+- ├── Jatekter.js # ?
+- ├── Info.js # ?
+- ├── Services.js # ?
+- └──
 
 ## Prompotok:
