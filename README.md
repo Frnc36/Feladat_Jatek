@@ -22,4 +22,5 @@ project/
 - ├── Services.js # ?
 - └──
 
-## Prompotok:
+## AI - Beszélgetés Link:
+https://chat.deepseek.com/share/dh5bzl7v29xejz850v
